@@ -1,24 +1,14 @@
 # vue-vuex4-tut
 
-## Project setup
-```
-npm install
+## Commands
+
+```bash
+npx vue create vue-vuex4-tut
+npm i vuex@next
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## History
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The code in this repository is based on
+[Vuex 4 Crash Course - 2021](https://youtu.be/y7DQhNs9Azw)
+video.
